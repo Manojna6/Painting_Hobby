@@ -1,0 +1,54 @@
+body{
+  text-align:center;
+  background:radial-gradient(#52489C 0%, #E2CFEA 100%);
+  
+}
+h1{
+  color: black;
+}
+p{
+  color: black;
+}
+img{
+  width:400px;
+}
+.menu{
+    right:10px;
+    top:5px;
+    list-style:none;
+    z-index:7;
+    position:absolute;
+}
+.links{
+    color:white;
+    font-size:30px;
+    font-family: 'Amatic SC', cursive;
+    float:left;
+    padding: 10px;
+}
+.links:hover{
+   background-color:black;
+    color:white;
+    padding: 10px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+    
+}
+.fav{
+    width: 400px;
+    height: 700px;
+}
+.Work{
+    width: 900px;
+    height: 1100px;
+}
+.inspo{
+    height: 400px;
+    padding: 10px;
+}
+.inspo:hover{
+    background-color: black;
+    padding: 10px; 
+}
